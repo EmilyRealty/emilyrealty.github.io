@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Emily Xing Realty'
 
 google_analytics_id: ""
 
@@ -8,15 +8,15 @@ homepage:
   show_call_box: true
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
-  desktop: "images/logo/logo.svg"
+  mobile: "images/logo/logo-mobile.png"
+  desktop: "images/logo/logo.png"
   desktop_height: "36px"
 
 footer:
-  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+  copyright_text: '&copy; EmilyXingRealty.com All rights reserved.'
 
 seo:
-  meta_og_title: "Jekyll Serif Theme"
+  meta_og_title: "Emily Xing Realty"
   meta_og_type: "website"
   meta_og_url: "https://jekyll-serif.netlify.app"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
